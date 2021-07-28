@@ -6,15 +6,12 @@
 Attestr JS library for running EKYC flows in desktop and mobile browser based applications.
 
 ## Integration Steps
-------
 Refer to the [documentation](https://docs.attestr.com/attestr-docs/attestr-studio-web-integration)
 
 The latest version of library is also available through our [CDN](https://cdn.attestr.com/flowx.js)
 
 ## License
--------
 attestr-js-sdk is distributed under MIT license. Read more in the [LICENSE](LICENSE) file.
 
 ## Contact Us
--------
 Write to us at [contact@attestr.com](mailto:contact@attestr.com)
