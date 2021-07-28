@@ -10,6 +10,8 @@ Refer to the [documentation](https://docs.attestr.com/attestr-docs/attestr-studi
 
 The latest version of library is also available through our [CDN](https://cdn.attestr.com/flowx.js)
 
+To download older versions, check [CHANGELOG](CHANGELOG)
+
 ## License
 attestr-js-sdk is distributed under MIT license. Read more in the [LICENSE](LICENSE) file.
 
